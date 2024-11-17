@@ -9,16 +9,14 @@ DataBase - MongoDB..
 System must have updated version of node and npm                                                                                                                     
 First Create your Mongo DB cluster and Open AI account ( for API keys to use AI ) and Cloudinary ( to save images in cloud ) and add you crendials in .env file
 
-Open Two Terminals
-In the first terminal :
-cd ./client
-npm install
-npm run dev
+Open Two Terminals                                                                                                                                                 In the first terminal :                                                                                                                                            
+cd client                                                                                                                                                       
+npm install                                                                                                                                                       
+npm run dev                                                                                                                                                      
 This would start the frontend
 
 
-In the second terminal :
-cd ./sever
-npm install
-npm start
+In the second terminal :                                                                                                                                           cd sever                                                                                                                                                        
+npm install                                                                                                                                                       
+npm start                                                                                                                                                        
 This would start the backend
