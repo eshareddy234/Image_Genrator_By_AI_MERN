@@ -16,7 +16,8 @@ npm run dev
 This would start the frontend
 
 
-In the second terminal :                                                                                                                                           cd sever                                                                                                                                                        
+In the second terminal :                                                                                                                                                                                            
+cd sever                                                                                                                                                        
 npm install                                                                                                                                                       
 npm start                                                                                                                                                        
 This would start the backend
